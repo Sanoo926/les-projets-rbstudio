@@ -1,0 +1,77 @@
+        body {
+            background-color: blue;
+            color:red
+        }
+
+        .table {
+            width: 920px;
+            border: 0px;
+            background-color: rgba(18, 220, 255, 0.25);
+            border-radius: 15px;    
+        }
+
+        .grostitre {
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 32px;
+            font-style: normal;
+            text-align: center;
+        }
+
+        .intermediaire {
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 24px;
+            font-style: normal;
+            text-align: center;
+        }
+
+        .paragraphemoyen {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 18px;
+            font-style: italic;
+            text-align: center;
+            color: brown;
+        }
+
+        .paragraphe {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            text-align: center;
+            color: rgb(81, 1, 8);
+        }
+
+        .boutonsimple {
+            background-color:cadetblue;
+            color:brown;
+            padding: 20px 30px;
+            text-align: center;
+            display: inline-block;
+            font-size:24px;
+            margin: 4px 2px;
+            border: none;
+            text-decoration: none;
+            border-radius: 20px;
+        }
+
+        .petitbouton {
+            background-color: cadetblue;
+            color:brown;
+            padding: 10px 20px;
+            text-align: center;
+            display: inline-block;
+            font-size: 18px;
+            margin: 4px 2px;
+            border: none;
+            text-decoration: none;
+            border-radius: 15px;
+        }
+
+        .boutonsimple:hover {
+            color:blueviolet ;
+            text-decoration: underline;
+        }
+        
+        .petitbouton:hover {
+            color:blueviolet ;
+            text-decoration: underline;
+        }
